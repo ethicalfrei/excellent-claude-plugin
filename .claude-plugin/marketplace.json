@@ -1,0 +1,19 @@
+{
+  "name": "excellent",
+  "owner": {
+    "name": "Excellent AI LLC",
+    "email": "support@beexcellent.ai"
+  },
+  "metadata": {
+    "description": "Excellent's official plugins for Claude."
+  },
+  "plugins": [
+    {
+      "name": "excellent",
+      "source": "./excellent",
+      "description": "Run your restaurant group's private dining and events from Claude: answer inquiries, hold and book rooms, invoice events, write the pre-shift note, staff the week, assign training and thank guests, with drafts you review and send in Excellent.",
+      "category": "productivity",
+      "homepage": "https://beexcellent.ai/mcp"
+    }
+  ]
+}

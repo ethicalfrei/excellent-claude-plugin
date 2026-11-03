@@ -1,0 +1,26 @@
+{
+  "name": "excellent",
+  "version": "0.1.0",
+  "description": "Run your restaurant group's private dining and events from Claude: answer inquiries, hold and book rooms, invoice events, write the pre-shift note, staff the week, assign training and thank guests, with drafts you review and send in Excellent.",
+  "author": {
+    "name": "Excellent AI LLC",
+    "email": "support@beexcellent.ai",
+    "url": "https://beexcellent.ai"
+  },
+  "homepage": "https://beexcellent.ai/mcp",
+  "privacyPolicyUrl": "https://beexcellent.ai/privacy",
+  "termsOfServiceUrl": "https://beexcellent.ai/terms",
+  "supportUrl": "https://beexcellent.ai/mcp#support",
+  "documentationUrl": "https://beexcellent.ai/mcp",
+  "repository": "https://github.com/ethicalfrei/excellent-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "restaurants",
+    "private-dining",
+    "events",
+    "hospitality",
+    "staff-scheduling",
+    "training",
+    "excellent"
+  ]
+}
